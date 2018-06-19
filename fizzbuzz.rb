@@ -1,5 +1,5 @@
-def fizzbuzz(30)
-  if 
+def fizzbuzz(x)
+  if x ==
     puts "You're out!"
   end
 end
