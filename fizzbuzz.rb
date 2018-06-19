@@ -1,7 +1,8 @@
 def fizzbuzz(x)
-  if x%3 == "3"
+  if x%3 == 3
   puts "fizz"
-  elsif 
+  elsif x%3 > 3
+  puts buzz
   end
 end
 
