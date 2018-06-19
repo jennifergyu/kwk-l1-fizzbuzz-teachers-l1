@@ -1,7 +1,7 @@
 def fizzbuzz(x)
-  if x ==
-    puts "You're out!"
+  if x == "3"
+    puts "fizz"
   end
 end
 
-game("yes")
+fizzbuzz(x)
